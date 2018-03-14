@@ -16,4 +16,4 @@ function countLetters(inputString){
   return charArrayMap;
 }
 
-console.log(countLetters("Lighthoues in the house"));
+console.log(countLetters("Lighthouse in the house"));
